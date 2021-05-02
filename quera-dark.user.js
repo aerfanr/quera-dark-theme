@@ -51,6 +51,4 @@
             color: #ebebeb !important;
         }
     `)
-
-    // Your code here...
 })();
