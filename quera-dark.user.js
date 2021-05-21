@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Quera Dark Mode
 // @version      0.1
-// @description  Dark theme for codeforces!
+// @description  Dark theme for quera!
 // @author       aerfanr@getgoogleoff.me
 // @match        http://quera.ir/*
 // @match        https://quera.ir/*
